@@ -17,7 +17,7 @@ const Testimonial = () => {
         <p>
             blah blah
         </p>
-        <div className='testimonial-stars-container'>
+        <div className='testimonials-stars-container'>
             <AiFillStar/>
             <AiFillStar/>
             <AiFillStar/>
